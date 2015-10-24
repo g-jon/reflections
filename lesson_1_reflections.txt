@@ -1,0 +1,7 @@
+1. version control helps you spot changes between versions
+2. you may learn from your past mistakes, or want to bring back ideas you had before
+3. you have more control over when it's saved, so the versions are more likely to be more logical stopping points
+4. if a certain change logically affects multiple files, makes more sense to do so; better for tracking a logical change
+5. log shows a list of commits; diff shows the changes introduced by a commit
+6. you can always revert to a previous state
+7. for coding
