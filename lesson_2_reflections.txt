@@ -1,0 +1,2 @@
+1. when you initialize a repository you should probably commit
+2. staging is where you decide where you want to be included in the commit
