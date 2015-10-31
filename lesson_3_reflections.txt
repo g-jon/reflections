@@ -1,1 +1,2 @@
 1. when collaborating
+2. when you're working on something, you don't want the file to constantly be changing when you're collaborating with others
